@@ -2,7 +2,7 @@
 
 Welcome to the Asymmetri Chat Bot! This project is an AI-powered chatbot that generates well-structured HTML and CSS code for landing pages, provides a live preview, and allows you to download your code—all in one seamless chat interface.
 
-🌐 **Live Demo:** [https://your-vercel-app-url.vercel.app](https://your-vercel-app-url.vercel.app)
+🌐 **Live Demo:** [https://chatbot-ashy-pi.vercel.app/](https://chatbot-ashy-pi.vercel.app/)
 
 ---
 

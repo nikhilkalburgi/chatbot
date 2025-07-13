@@ -186,7 +186,7 @@ export default function Chat() {
   const [history, setHistory] = useState<{ id: string; createdAt: string; prompt: string; response: string }[]>([]);
 
   useEffect(() => {
-    if (status === 'unauthenticated' || true) {
+    if (status === 'unauthenticated') {
       router.push('/auth/login');
     }
   }, [status, router]);
